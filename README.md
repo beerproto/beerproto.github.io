@@ -1,7 +1,4 @@
-# BeerProto
-
-[BeerProto Sepcification](https://beerproto.github.io/beerproto/)
-
+# [BeerProto Sepcification](https://beerproto.github.io/beerproto/)
 
 Another beer format, written in protocol buffer.
 
