@@ -1,7 +1,5 @@
 # [BeerProto Sepcification](https://beerproto.github.io/beerproto/)
 
-Another beer format, written in protocol buffer.
-
 Written as a pure computer interchange format for language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols and data storage.
 
 #### Protocol Buffer
