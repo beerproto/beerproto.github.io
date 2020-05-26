@@ -1,7 +1,8 @@
- # Inferred Values
+# Inferred Values
  
 You can use the the following pseudocode (JSONPath) methods to calculate the inferred values.
 
+### Pre-Boil Volume
 
 ```javascript
 kettle = $.Recipe.equipments.equipment_items[?(@.form == 'BREW_KETTLE')]
