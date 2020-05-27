@@ -12,3 +12,8 @@ kettle = $.Recipe.equipments.equipment_items[?(@.form == 'BREW_KETTLE')]
 Pre-Boil Volume = $.RecipeType.batch_size.value + kettle.boil_rate_per_hour.value
 ```
 
+# Constants
+
+```javascript
+sucrose = 1.04621
+```
