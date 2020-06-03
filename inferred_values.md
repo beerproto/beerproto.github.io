@@ -9,7 +9,6 @@ You can use the the following pseudocode methods to calculate the inferred value
 `hours()` function to return the number of hours.
 
 ### Pre-Boil Volume
-A default boil time of 60 minutes when no boil_time is provided.
 
 ```javascript
 kettle = $.Recipe.equipments.equipment_items[?(@.form == 'BREW_KETTLE')]
