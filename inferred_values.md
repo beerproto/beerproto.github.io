@@ -9,7 +9,12 @@ kettle = $.Recipe.equipments.equipment_items[?(@.form == 'BREW_KETTLE')]
 ```
 
 ```javascript
-Pre-Boil Volume = $.RecipeType.batch_size.value + kettle.boil_rate_per_hour.value
+pre-boil_volume = $.RecipeType.batch_size.value + kettle.boil_rate_per_hour.value
+```
+
+### Pre-Boil Gravity
+```javascript
+pre-boil_gravity = ($.RecipeType.batch_size.value * $.RecipeType.original_gravity.value) / pre-boil_volume
 ```
 
 # Constants
