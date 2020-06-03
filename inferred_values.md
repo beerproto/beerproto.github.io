@@ -19,6 +19,11 @@ pre-boil_gravity = ($.RecipeType.batch_size.value * $.RecipeType.original_gravit
 
 # Constants
 
+### Sucrose (SG)
 ```javascript
 sucrose = 1.04621
+```
+### Volumetric expansion coefficient (1/k)
+```javascript
+expansion = 0.0004
 ```
