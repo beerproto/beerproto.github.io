@@ -2,8 +2,6 @@
 
 Written as a pure computer interchange format for language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols and data storage.
 
-* [Inferred Values](inferred_values.md)
-
 #### Protocol Buffer
 BeerProto follows the structure of BeerJSON and can take advantages of the official code generating plugins for protocol buffers given support for C++, C#, Dart, Go, Java, Python, Ruby, Objective C, PHP and JavaScript as well as third part plugins such as Swift.
 
