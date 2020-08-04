@@ -1,4 +1,8 @@
-# [BeerProto Specification](https://beerproto.github.io/beerproto/)
+## Specification Doc
+
+[BeerProto Specification](https://beerproto.github.io/beerproto/)
+
+## About
 
 Written as a pure computer interchange format for language-neutral, platform-neutral, extensible way of serializing structured data for use in communications protocols and data storage.
 
