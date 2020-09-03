@@ -19,4 +19,4 @@ Interoperability with BeerJSON can be achieved, but does require the conversion 
 
 [Go Generated Code](reference/go-generated.md)
 
-[Go Doc](https://pkg.go.dev/github.com/beerproto/beerproto.go?tab=doc)
+[Go Doc](https://pkg.go.dev/github.com/beerproto/beerproto_go?tab=doc)
