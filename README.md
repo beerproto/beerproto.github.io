@@ -1,3 +1,5 @@
+# BeerProto
+
 ## Specification Doc
 
 [BeerProto Specification](https://beerproto.github.io/beerproto/)
