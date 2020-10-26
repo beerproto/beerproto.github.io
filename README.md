@@ -15,7 +15,7 @@ You can also use the Proto3 supports for canonical encoding in JSON, making it e
 
 #### Notes
 
-Interoperability with BeerJSON can be achieved, but does require the conversion of the enumerators between int32's and strings and handling non nullables properties. To assit with this we provide a command line tool that can convert between BeerProto and BeerJSON.
+Interoperability with BeerJSON can be achieved, but does require the conversion of the enumerators between int32's and strings and handling non nullables properties.
 
 ## Go Reference
 
